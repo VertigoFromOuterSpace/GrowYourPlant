@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/c88bd63d-f727-418c-ad73-6e2c2a8aba5b" width="50" height="50" styles="border-radius: 50%;"> - Raccoonvoor - Thiago <br>
 <img src="https://github.com/user-attachments/assets/c97afebf-5066-41cd-b48a-ba1eb3ebd1f5" width="50" height="50" styles="border-radius: 50%;"> - raeder - Luiz <br>
 
-
+---
 
 - [x] 1. Cadastro de tarefas diárias
 
