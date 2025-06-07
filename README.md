@@ -1,4 +1,5 @@
 # Aplicativo de objetivos diários e melhora pessoal.
+![VertigoFromOuterSpace]([image.jpg](https://avatars.githubusercontent.com/u/120737154?v=4))
 
 - [x] 1. Cadastro de tarefas diárias
 
