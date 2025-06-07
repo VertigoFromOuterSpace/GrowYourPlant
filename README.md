@@ -1,5 +1,11 @@
 # Aplicativo de objetivos diários e melhora pessoal.
-![VertigoFromOuterSpace]([image.jpg](https://avatars.githubusercontent.com/u/120737154?v=4))
+#### Colaboradores:
+![image](https://github.com/user-attachments/assets/d7b34f4e-3c38-4b09-8bd5-53013e94348b) - VertigoFromOuterSpace - Henrique
+![image](https://github.com/user-attachments/assets/c88bd63d-f727-418c-ad73-6e2c2a8aba5b) - Raccoonvoor - Thiago
+![image](https://github.com/user-attachments/assets/c97afebf-5066-41cd-b48a-ba1eb3ebd1f5) - raeder - Luiz
+
+
+
 
 - [x] 1. Cadastro de tarefas diárias
 
