@@ -1,3 +1,8 @@
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
 # Aplicativo de objetivos diários e melhora pessoal.
 #### Colaboradores:
 <img src="https://github.com/user-attachments/assets/d7b34f4e-3c38-4b09-8bd5-53013e94348b" width="50" height="50" styles="border-radius: 50%;"> - VertigoFromOuterSpace - Henrique <br>
