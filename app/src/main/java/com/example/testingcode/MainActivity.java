@@ -8,6 +8,8 @@ import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
+//Adicionando isso daqui pra testar
+
 public class MainActivity extends AppCompatActivity {
     // Chaves pra salvar no celular (igual um armário)
     public static final String PREFS_NAME = "TarefasPrefs"; // Nome do armário
