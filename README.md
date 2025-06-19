@@ -11,7 +11,7 @@
 
   - [ ] Interface para adicionar/editar/remover tarefas.
 
-  - [] Checkboxes ou switches para marcar tarefas concluídas.
+  - [ ] Checkboxes ou switches para marcar tarefas concluídas.
 
 - [ ] 2. Sensor de passos (Pedometer)
 
