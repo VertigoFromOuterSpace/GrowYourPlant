@@ -29,7 +29,7 @@
 
 - [ ] 4. Cálculo de porcentagem de rega
 
-  - [] Se 100% das tarefas forem concluídas, 100% da água.
+  - [ ] Se 100% das tarefas forem concluídas, 100% da água.
 
   - [] Se 50% das tarefas forem concluídas, 50% da rega.
 
