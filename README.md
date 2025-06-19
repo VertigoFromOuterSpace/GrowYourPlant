@@ -31,7 +31,7 @@
 
   - [] Se 100% das tarefas forem concluídas, 100% da água.
 
-  - [x] Se 50% das tarefas forem concluídas, 50% da rega.
+  - [] Se 50% das tarefas forem concluídas, 50% da rega.
 
   - [ ] Passos aumentam a porcentagem em até, por exemplo, +20%.
 
