@@ -7,7 +7,7 @@
 
 ---
 
-- [x] 1. Cadastro de tarefas diárias
+- [] 1. Cadastro de tarefas diárias
 
   - [x] Interface para adicionar/editar/remover tarefas.
 
