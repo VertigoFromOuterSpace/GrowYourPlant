@@ -27,7 +27,7 @@
 
   - [ ] Passos dados = bônus de água.
 
-- [] 4. Cálculo de porcentagem de rega
+- [ ] 4. Cálculo de porcentagem de rega
 
   - [] Se 100% das tarefas forem concluídas, 100% da água.
 
