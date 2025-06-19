@@ -9,7 +9,7 @@
 
 - [] 1. Cadastro de tarefas diárias
 
-  - [x] Interface para adicionar/editar/remover tarefas.
+  - [] Interface para adicionar/editar/remover tarefas.
 
   - [x] Checkboxes ou switches para marcar tarefas concluídas.
 
