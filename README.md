@@ -15,34 +15,22 @@
 
 - [ ] 2. Sensor de passos (Pedometer)
 
-  - [ ] Integração com o sensor do acelerômetro ou com o Google Fit API para contar passos.
+  - [x] Integração com o sensor do acelerômetro
 
-  - [ ] 3. Sistema de rega da planta
+- [x] 3. Cálculo de porcentagem de barra
 
-  - [ ] Planta animada ou estática com estados de crescimento (semente → broto → planta adulta).
+  - [x] Se 100% das tarefas forem concluídas, 100% da barra.
 
-  - [ ] A planta "cresce" com base:
+  - [x] Se 50% das tarefas forem concluídas, 50% da barra.
 
-  - [ ] Tarefas concluídas = ganha mais água.
+- [ ] 4. Dias consecutivos
 
-  - [ ] Passos dados = bônus de água.
-
-- [x] 4. Cálculo de porcentagem de rega
-
-  - [x] Se 100% das tarefas forem concluídas, 100% da água.
-
-  - [x] Se 50% das tarefas forem concluídas, 50% da rega.
-
-  - [ ] Passos aumentam a porcentagem em até, por exemplo, +20%.
-
-- [ ] 5. Dias consecutivos
-
-  - [ ] Armazena um contador de dias seguidos com 100% de rega.
+  - [ ] Armazena um contador de dias seguidos
 
   - [ ] Mostra visualmente o histórico em uma telinha (tipo "streak" do Duolingo).
 
-- [ ] 6. Notificações
+- [ ] 5. Notificações
 
-  - [ ] Lembrete para regar a planta.
+  - [ ] Lembrete para concluir tarefas
 
   - [ ] Aviso se o usuário esqueceu de concluir tarefas.
