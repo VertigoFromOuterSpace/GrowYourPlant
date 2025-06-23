@@ -1,3 +1,5 @@
+//Trabalho feito por: Henrique Lopes, Thiago Vieira, Luiz Raeder
+
 package com.example.testingcode;
 
 import android.content.Context;
