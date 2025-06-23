@@ -5,7 +5,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="8dp"
-    tools:context=".ListaTarefas">
+    tools:context=".ListaTarefas"
+    android:background="@drawable/background_azul_main">
 
     <Button
         android:id="@+id/btnVoltar"
