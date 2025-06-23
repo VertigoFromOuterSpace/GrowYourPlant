@@ -29,29 +29,22 @@ public class MainActivity extends AppCompatActivity {
     private float previousMagnitude = 0f;
     private double distanciaPercorrida = 0;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-
         Button btnIrParaTarefas = findViewById(R.id.btnIrParaTarefas);
 
         progressBarTarefas = findViewById(R.id.progressBar);
         txtProgressTarefas = findViewById(R.id.txtProgress);
-
-
         contadorPassosTxt = findViewById(R.id.textViewContador);
         distanciaTxt = findViewById(R.id.textViewDistancia);
-        if (barraDeProgressoPassos != null) barraDeProgressoPassos.setMax(10_000); // meta 10k passos
 
-
+        if (barraDeProgressoPassos != null) barraDeProgressoPassos.setMax(10_000);
         btnIrParaTarefas.setOnClickListener(v -> startActivity(new Intent(this, ListaTarefas.class)));
 
-
         atualizarBarraProgressoTarefas();
-
-
         sensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
         accelerometer = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
 
@@ -75,11 +68,9 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onAccuracyChanged(Sensor sensor, int accuracy) {
-
             }
         };
     }
-
 
     private void atualizarPedometerUI() {
         if (contadorPassosTxt != null) {

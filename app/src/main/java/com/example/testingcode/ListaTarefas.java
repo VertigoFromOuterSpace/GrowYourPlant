@@ -18,6 +18,7 @@ public class ListaTarefas extends AppCompatActivity {
     private TaskAdapter adapter;
     private ListView listViewTasks;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -33,7 +34,6 @@ public class ListaTarefas extends AppCompatActivity {
         listViewTasks.setAdapter(adapter);
 
         findViewById(R.id.btnVoltar).setOnClickListener(v -> finish());
-
         findViewById(R.id.buttonAdd).setOnClickListener(v -> {
             String task = ((android.widget.EditText) findViewById(R.id.editTextTask)).getText().toString().trim();
             if(!task.isEmpty()){
