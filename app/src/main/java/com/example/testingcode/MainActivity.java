@@ -15,7 +15,6 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-
     public static final String PREFS_NAME = "TarefasPrefs";
     public static final String PROGRESS_KEY = "progresso";
     private ProgressBar progressBarTarefas;
